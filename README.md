@@ -6,5 +6,7 @@ see http://www.hikarifield.com/tayutama2_en/
 see http://www.hikarifield.com/tayutama2/  
 
 ## History  
-* 2018-02-15 : Function stub (v48)  
+* 2018-06-16 : Migrated to xcode 9.4, swift 4.1.2, not done (v73)  
+* 2018-06-10 : Still in swift 4.0, not done (v72)  
+* 2018-02-15 : Function stubs done (v48)  
 * 2018-02-01 : First version (v1)  
