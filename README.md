@@ -10,3 +10,6 @@ see http://www.hikarifield.com/tayutama2/
 * 2018-06-10 : Still in swift 4.0, not done (v72)  
 * 2018-02-15 : Function stubs done (v48)  
 * 2018-02-01 : First version (v1)  
+
+## etc  
+https://github.com/weimingtom/kaleido  
